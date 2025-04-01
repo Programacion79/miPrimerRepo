@@ -10,3 +10,8 @@
 
 Este es mi primer repositorio creado con Git y GitHub.
 # Un commit más desde GitHub
+
+Este es un commit realizado el 30 de maarzo de 2025
+# Un comit más
+
+Mi segunda contribucion local para GitHub
