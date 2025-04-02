@@ -15,3 +15,6 @@ Este es un commit realizado el 30 de maarzo de 2025
 # Un comit más
 
 Mi segunda contribucion local para GitHub
+
+# Un ejemplo mas
+Commit realizado desde Git
